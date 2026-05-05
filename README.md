@@ -9,7 +9,7 @@ This repository captures a learning journey from Python fundamentals to classica
 - `ML practice/` – Classical ML workflows: regression, classification, PCA, ensembles, and hyperparameter tuning, plus companion datasets.
 - `Deep_Learning/` – ANN/CNN/GAN experiments, transfer learning, TensorBoard demos, and deep learning reference notes.
 - `RNN_Deep_Learning/` – Sequence modelling notebooks (emoji prediction, Reuters classification, embeddings) with supporting CSVs.
-- `Coursra/` – Coursera lab materials for the Machine Learning Specialization (labs + helper utilities).
+- `Coursra/` (Coursera) – Lab materials for the Machine Learning Specialization (labs + helper utilities).
 - `Leet_learn/` – Algorithm practice scratchpad.
 - Root PDFs – reference notes and guides.
 
